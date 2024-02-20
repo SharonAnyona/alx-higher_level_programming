@@ -269,8 +269,8 @@ carrie@ubuntu:~/0x00$ cat 10-linked_lists.c
   */
   size_t print_listint(const listint_t *h)
   {
-  const listint_t _current;
-  unsigned int n; /_ number of nodes \*/
+  const listint*t \_current;
+  unsigned int n; /* number of nodes \*/
 
       current = h;
       n = 0;
